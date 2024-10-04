@@ -7,7 +7,7 @@ landing:
   title:
     - MtF.wiki
   text:
-    - 欢迎来到 MtF.wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~
+    - 欢迎来到 MtF.wiki．我们试图整理汇总 MtF 的相关资料，为大家提供更好的帮助~1
   titleColor:
   textColor:
   spaceBetweenTitleText: 25
